@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="$USER_HOME$/Desktop/TEST/MyFirstApp" value="1453202645000" />
+        <entry key="$USER_HOME$/Desktop/cgp_git/bb-sunbed-backend/CGP-Backend" value="1461314045000" />
+        <entry key="$USER_HOME$/Desktop/new_cgp_git/bb-sunbed-backend/CGP-Backend" value="1461333430000" />
+        <entry key="$USER_HOME$/Desktop/test_play/my-first-app" value="1461327418000" />
+      </map>
+    </option>
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+</project>
